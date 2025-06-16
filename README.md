@@ -6,13 +6,6 @@ A machine learning project to predict carbon emissions based on various environm
 - [About the Project](#about-the-project)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Performance](#model-performance)
-- [Dataset](#dataset)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ---
 
@@ -39,10 +32,3 @@ This project uses machine learning algorithms to:
 - **Libraries:** pandas, scikit-learn, matplotlib, seaborn, XGBoost
 - **Tools:** Jupyter Notebook, Git, GitHub
 - **Optional (for deployment/visualization):** Streamlit, Flask, Dash, or Plotly
-
-## 🚀 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/carbon-emissions-prediction.git
-   cd carbon-emissions-prediction
